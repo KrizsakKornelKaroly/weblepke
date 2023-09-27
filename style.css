@@ -1,0 +1,49 @@
+.nappali{
+    background-color: darkslategray;
+    font-size: 1.1em;
+}
+.cim{
+    color: white;
+    text-align: center;
+
+}
+.nappalitable{
+    width: 640px;
+    margin: 0 auto;
+    background-image:url("./hatter.jpg");
+}
+tr{
+    margin: 5px;
+    padding: 5px;
+}
+.k1{
+    float: left;
+}
+.k2{
+    float: right;
+}
+.lepkeej{
+    color: black;
+}
+.jel{
+    display: inline;
+}
+.tableejjeli{
+    background-color: darkslategray;
+}
+.k3{
+    display: block;
+    float: left;
+}
+.lepkenap{
+    color: white;
+}
+.k1, .k2{
+    border: 1px solid black;
+}
+.ejjelibody{
+    font-size: 1.1em;
+}
+a{
+    font-size: 1.5em;
+}
